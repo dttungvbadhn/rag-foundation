@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+storage/chroma/*
+!storage/chroma/.gitkeep
+storage/hierarchy/*
+!storage/hierarchy/.gitkeep
+storage/huggingface/*
+!storage/huggingface/.gitkeep
+reports/*.json
+.streamlit/

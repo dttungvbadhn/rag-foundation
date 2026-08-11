@@ -1,0 +1,28 @@
+[
+  {
+    "chunk_id": "sample_1",
+    "strategy": "hierarchical",
+    "source": "sample.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Chương I. Quy định chung. Điều 1. Phạm vi điều chỉnh.",
+    "structure": {"chapter": "Chương I", "article": "Điều 1"}
+  },
+  {
+    "chunk_id": "sample_2",
+    "strategy": "hierarchical",
+    "source": "sample.pdf",
+    "page_start": 2,
+    "page_end": 2,
+    "text": "Khoản 1 quy định điều kiện áp dụng.",
+    "structure": {"chapter": "Chương I", "article": "Điều 2", "clause": "Khoản 1"}
+  },
+  {
+    "chunk_id": "sample_3",
+    "strategy": "hierarchical",
+    "source": "sample.pdf",
+    "page_start": 3,
+    "page_end": 3,
+    "text": "Theo khoản 4 Điều 7, đơn vị phải báo cáo định kỳ."
+  }
+]
