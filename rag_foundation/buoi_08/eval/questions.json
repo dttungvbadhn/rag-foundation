@@ -1,0 +1,58 @@
+[
+  {
+    "query_id": "Q01",
+    "question": "Cơ quan tiếp nhận phải làm gì khi nhận hồ sơ?",
+    "relevant_chunk_ids": ["adv_h_001"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q02",
+    "question": "Khoản 1 Điều 7 yêu cầu người đề nghị nộp những gì?",
+    "relevant_chunk_ids": ["adv_h_002"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q03",
+    "question": "Khi hồ sơ thiếu, cơ quan được yêu cầu bổ sung bao nhiêu lần?",
+    "relevant_chunk_ids": ["adv_h_003"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q04",
+    "question": "Thời hạn xử lý hồ sơ hợp lệ là bao lâu?",
+    "relevant_chunk_ids": ["adv_h_004"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q05",
+    "question": "Quyết định hành chính cần thể hiện quyền nào của người nhận?",
+    "relevant_chunk_ids": ["adv_h_005"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q06",
+    "question": "Nghĩa vụ có được hoãn khi xảy ra trở ngại khách quan không?",
+    "relevant_chunk_ids": ["adv_h_006", "adv_h_007"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q07",
+    "question": "Hoàn cảnh ngoài khả năng kiểm soát ảnh hưởng thời điểm hoàn thành cam kết thế nào?",
+    "relevant_chunk_ids": ["adv_h_006", "adv_h_007"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q08",
+    "question": "Giá vàng hôm nay tăng hay giảm?",
+    "relevant_chunk_ids": [],
+    "scope": "out_of_scope",
+    "needs_human_review": true
+  }
+]

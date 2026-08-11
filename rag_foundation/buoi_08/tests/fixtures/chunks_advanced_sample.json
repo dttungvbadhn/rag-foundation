@@ -1,0 +1,66 @@
+[
+  {
+    "chunk_id": "adv_h_001",
+    "strategy": "hierarchical",
+    "source": "quy_dinh_mo_phong.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Điều 5. Nguyên tắc xử lý hồ sơ. Cơ quan tiếp nhận hồ sơ phải kiểm tra hồ sơ, ghi nhận hồ sơ và thông báo kết quả kiểm tra hồ sơ cho người nộp."
+  },
+  {
+    "chunk_id": "adv_h_002",
+    "strategy": "hierarchical",
+    "source": "quy_dinh_mo_phong.pdf",
+    "page_start": 2,
+    "page_end": 2,
+    "text": "Khoản 1 Điều 7 quy định người đề nghị phải nộp đơn, tài liệu chứng minh và chịu trách nhiệm về tính chính xác của tài liệu đã nộp."
+  },
+  {
+    "chunk_id": "adv_h_003",
+    "strategy": "hierarchical",
+    "source": "quy_dinh_mo_phong.pdf",
+    "page_start": 2,
+    "page_end": 3,
+    "text": "Khoản 2 Điều 7 quy định cơ quan có thẩm quyền được yêu cầu bổ sung hồ sơ một lần khi hồ sơ chưa đầy đủ hoặc chưa hợp lệ."
+  },
+  {
+    "chunk_id": "adv_h_004",
+    "strategy": "hierarchical",
+    "source": "quy_dinh_mo_phong.pdf",
+    "page_start": 4,
+    "page_end": 4,
+    "text": "Điều 12. Thời hạn giải quyết là mười ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ; thời gian yêu cầu bổ sung không tính vào thời hạn giải quyết."
+  },
+  {
+    "chunk_id": "adv_h_005",
+    "strategy": "hierarchical",
+    "source": "quy_dinh_mo_phong.pdf",
+    "page_start": 5,
+    "page_end": 5,
+    "text": "Quyết định hành chính phải nêu rõ căn cứ pháp lý, nội dung giải quyết, quyền khiếu nại và thời hạn thực hiện quyền khiếu nại."
+  },
+  {
+    "chunk_id": "adv_h_006",
+    "strategy": "hierarchical",
+    "source": "huong_dan_mo_phong.pdf",
+    "page_start": 6,
+    "page_end": 6,
+    "text": "Trong trường hợp sự kiện bất khả kháng, nghĩa vụ có thể được tạm hoãn cho đến khi trở ngại khách quan chấm dứt."
+  },
+  {
+    "chunk_id": "adv_h_007",
+    "strategy": "hierarchical",
+    "source": "huong_dan_mo_phong.pdf",
+    "page_start": 7,
+    "page_end": 8,
+    "text": "Bên bị ảnh hưởng bởi hoàn cảnh ngoài khả năng kiểm soát được lùi thời điểm hoàn thành cam kết tới lúc điều kiện cản trở không còn."
+  },
+  {
+    "chunk_id": "adv_h_008",
+    "strategy": "hierarchical",
+    "source": "ngoai_pham_vi_mo_phong.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Công thức làm bánh mô phỏng gồm bột, nước và men; nội dung này không liên quan đến thủ tục hoặc quy định pháp lý."
+  }
+]
