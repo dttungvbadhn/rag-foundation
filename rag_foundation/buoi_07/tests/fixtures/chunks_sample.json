@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": "hierarchical_sample_001",
+    "strategy": "hierarchical",
+    "source": "tai_lieu_mau.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Tài liệu mô phỏng giới thiệu mục tiêu và phạm vi của hệ thống hỏi đáp."
+  },
+  {
+    "chunk_id": "hierarchical_sample_002",
+    "strategy": "hierarchical",
+    "source": "tai_lieu_mau.pdf",
+    "page_start": 2,
+    "page_end": 3,
+    "text": "Phần mô phỏng này trình bày quy trình chuẩn bị và kiểm tra dữ liệu đầu vào."
+  },
+  {
+    "chunk_id": "hierarchical_sample_003",
+    "strategy": "hierarchical",
+    "source": "tai_lieu_mau.pdf",
+    "page_start": 4,
+    "page_end": 4,
+    "text": "Nội dung giả lập mô tả cách tổ chức thông tin theo cấu trúc phân cấp."
+  },
+  {
+    "chunk_id": "semantic_sample_001",
+    "strategy": "semantic",
+    "source": "huong_dan_mau.pdf",
+    "page_start": 5,
+    "page_end": 6,
+    "text": "Đoạn mô phỏng gom các câu có cùng chủ đề để phục vụ tìm kiếm ngữ nghĩa."
+  },
+  {
+    "chunk_id": "fixed_sample_001",
+    "strategy": "fixed-size",
+    "source": "huong_dan_mau.pdf",
+    "page_start": 7,
+    "page_end": 7,
+    "text": "Đoạn văn giả lập có kích thước cố định và không chứa dữ liệu nhạy cảm."
+  }
+]
