@@ -3,8 +3,8 @@
 Module này kết nối tới Neo4j cục bộ và kiểm tra database `kb-hops` bằng truy vấn chỉ đọc.
 
 ```powershell
-..\..\rag_foundation\buoi_05\.venv\Scripts\python.exe -m pip install -r requirements.txt
-..\..\rag_foundation\buoi_05\.venv\Scripts\python.exe neo4j_connection.py status
+..\buoi_05\.venv\Scripts\python.exe -m pip install -r requirements.txt
+..\buoi_05\.venv\Scripts\python.exe neo4j_connection.py status
 ```
 
 Sao chép `.env.example` thành `.env` và điền mật khẩu thực tế. Không commit `.env`.
@@ -59,7 +59,7 @@ Năm câu hỏi trong `eval/questions.json` bao phủ chuỗi thay thế, văn b
 căn cứ pháp lý và văn bản điều chỉnh hoạt động. Chạy retrieval-only mặc định:
 
 ```powershell
-..\..\rag_foundation\buoi_05\.venv\Scripts\python.exe evaluate.py --top-k 5 --max-hops 2
+..\buoi_05\.venv\Scripts\python.exe evaluate.py --top-k 5 --max-hops 2
 ```
 
 Chỉ thêm `--generate` khi chủ động cho phép gọi Gemini. Báo cáo JSON ghi seed/related IDs,
