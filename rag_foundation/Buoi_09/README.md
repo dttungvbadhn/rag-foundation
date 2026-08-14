@@ -62,7 +62,7 @@ hỏi gốc Q0.
 ## Cấu trúc
 
 ```text
-rag_advanced/buoi_09/
+rag_foundation/Buoi_09/
 ├── rag.py                 # semantic baseline snapshot
 ├── advanced_rag.py        # Advanced RAG baseline snapshot
 ├── hierarchical_rag.py    # hierarchy, multi-query, parent pipeline
@@ -83,8 +83,8 @@ Buổi 09 đọc chunk hierarchical từ Buổi 05 nhưng không sửa Buổi 05
 Chạy từ thư mục gốc `RAG`. Dùng interpreter Buổi 05:
 
 ```powershell
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe -m pip install -r .\rag_advanced\buoi_09\requirements.txt
-Copy-Item .\rag_advanced\buoi_09\.env.example .\rag_advanced\buoi_09\.env
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe -m pip install -r .\rag_foundation\Buoi_09\requirements.txt
+Copy-Item .\rag_foundation\Buoi_09\.env.example .\rag_foundation\Buoi_09\.env
 ```
 
 Điền `GEMINI_API_KEY` trong `.env`; không commit file này. Các nhóm biến:
@@ -108,9 +108,9 @@ cùng source → document fallback. Inline `Điều N` giữa câu không tự �
 heading. Conflict hoặc không chắc chắn tạo `ambiguous/warnings`, không bị che.
 
 ```powershell
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_advanced\buoi_09\hierarchical_rag.py hierarchy-audit
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_advanced\buoi_09\hierarchical_rag.py build-hierarchy
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_advanced\buoi_09\hierarchical_rag.py hierarchy-status
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_foundation\Buoi_09\hierarchical_rag.py hierarchy-audit
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_foundation\Buoi_09\hierarchical_rag.py build-hierarchy
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_foundation\Buoi_09\hierarchical_rag.py hierarchy-status
 ```
 
 Manifest chứa input fingerprints và config identity. Store stale không được tự
@@ -119,7 +119,7 @@ build trong query; hãy audit rồi chủ động build lại.
 ## Query expansion và API budget
 
 ```powershell
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_advanced\buoi_09\hierarchical_rag.py expand-query --question "Điều kiện vay vốn là gì?"
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_foundation\Buoi_09\hierarchical_rag.py expand-query --question "Điều kiện vay vốn là gì?"
 ```
 
 Q0 được code giữ nguyên. Gemini tạo Q1..Qn trong một Generation API call và cache
@@ -131,16 +131,16 @@ call.
 
 ```powershell
 # Fan-out child retrieval
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_advanced\buoi_09\hierarchical_rag.py multi-child --question "Điều kiện vay vốn là gì?"
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_foundation\Buoi_09\hierarchical_rag.py multi-child --question "Điều kiện vay vốn là gì?"
 
 # Retrieve child, return parent (chưa answer)
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_advanced\buoi_09\hierarchical_rag.py parent-retrieve --mode multi_parent --question "Điều kiện vay vốn là gì?"
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_foundation\Buoi_09\hierarchical_rag.py parent-retrieve --mode multi_parent --question "Điều kiện vay vốn là gì?"
 
 # Answer
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_advanced\buoi_09\hierarchical_rag.py query --mode multi_parent --question "Điều kiện vay vốn là gì?"
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_foundation\Buoi_09\hierarchical_rag.py query --mode multi_parent --question "Điều kiện vay vốn là gì?"
 
 # Bốn mode retrieval/rerank, không answer generation
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_advanced\buoi_09\hierarchical_rag.py compare --question "Điều kiện vay vốn là gì?"
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_foundation\Buoi_09\hierarchical_rag.py compare --question "Điều kiện vay vốn là gì?"
 ```
 
 Parent rerank score là score chuẩn hóa của model, không phải xác suất đúng.
@@ -152,8 +152,8 @@ Evidence chỉ được gửi tới generation khi đạt `RERANK_MIN_SCORE`. Ci
 Status hierarchy là read-only. Semantic status/prepare dùng baseline snapshot:
 
 ```powershell
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_advanced\buoi_09\advanced_rag.py status --strategy hierarchical
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_advanced\buoi_09\advanced_rag.py prepare-semantic --strategy hierarchical
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_foundation\Buoi_09\advanced_rag.py status --strategy hierarchical
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_foundation\Buoi_09\advanced_rag.py prepare-semantic --strategy hierarchical
 ```
 
 Prepare semantic gọi Gemini embedding thật và ghi Chroma Buổi 09; không có vector
@@ -162,9 +162,9 @@ giả.
 ## Test, evaluation và Streamlit
 
 ```powershell
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe -m unittest discover -s .\rag_advanced\buoi_09\tests -v
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_advanced\buoi_09\evaluate.py --k 5
-.\rag_foundation\buoi_05\.venv\Scripts\python.exe -m streamlit run .\rag_advanced\buoi_09\app.py
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe -m unittest discover -s .\rag_foundation\Buoi_09\tests -v
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe .\rag_foundation\Buoi_09\evaluate.py --k 5
+.\rag_foundation\buoi_05\.venv\Scripts\python.exe -m streamlit run .\rag_foundation\Buoi_09\app.py
 ```
 
 Evaluator so sánh bốn mode retrieval-only và không gọi answer generation. Report

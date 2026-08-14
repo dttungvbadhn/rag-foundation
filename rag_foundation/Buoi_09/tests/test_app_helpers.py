@@ -2,7 +2,7 @@
 
 import unittest
 
-from rag_advanced.buoi_09 import app
+from rag_foundation.Buoi_09 import app
 
 
 class AppHelperTests(unittest.TestCase):
