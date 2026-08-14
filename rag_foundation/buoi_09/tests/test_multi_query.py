@@ -5,7 +5,7 @@ import unicodedata
 import unittest
 from unittest.mock import Mock
 
-from rag_foundation.Buoi_09 import hierarchical_rag as hr
+from rag_foundation.buoi_09 import hierarchical_rag as hr
 
 
 def config():

@@ -4,8 +4,8 @@ from dataclasses import replace
 import unittest
 from unittest.mock import Mock
 
-from rag_foundation.Buoi_09 import advanced_rag as ar
-from rag_foundation.Buoi_09 import hierarchical_rag as hr
+from rag_foundation.buoi_09 import advanced_rag as ar
+from rag_foundation.buoi_09 import hierarchical_rag as hr
 
 
 def hcfg(**changes):

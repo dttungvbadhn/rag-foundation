@@ -6,9 +6,9 @@ from pathlib import Path
 import tempfile
 import unittest
 
-from rag_foundation.Buoi_09 import advanced_rag as ar
-from rag_foundation.Buoi_09 import evaluate
-from rag_foundation.Buoi_09 import hierarchical_rag as hr
+from rag_foundation.buoi_09 import advanced_rag as ar
+from rag_foundation.buoi_09 import evaluate
+from rag_foundation.buoi_09 import hierarchical_rag as hr
 
 
 class MetricTests(unittest.TestCase):

@@ -5,7 +5,7 @@
 Buổi 09 mở rộng Buổi 08 từ flat hybrid retrieval sang multi-query hierarchical
 RAG. Mỗi câu hỏi có câu gốc và biến thể, retrieval độc lập trên child, fusion
 chéo query, ánh xạ child lên parent, tổng hợp/rerank parent rồi mới generation.
-Chỉ ghi trong `rag_foundation/Buoi_09/`; không sửa Buổi 05–08 và không lộ secret.
+Chỉ ghi trong `rag_foundation/buoi_09/`; không sửa Buổi 05–08 và không lộ secret.
 
 ```text
 Q0 + variants

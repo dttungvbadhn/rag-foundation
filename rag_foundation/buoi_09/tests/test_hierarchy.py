@@ -8,7 +8,7 @@ import time
 import unittest
 from unittest.mock import patch
 
-from rag_foundation.Buoi_09 import hierarchical_rag as hr
+from rag_foundation.buoi_09 import hierarchical_rag as hr
 
 
 def chunk(child_id, text, source="a.pdf", page=1, structure=None):
