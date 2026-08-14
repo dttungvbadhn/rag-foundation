@@ -1,0 +1,37 @@
+[
+  {
+    "question_id": "Q01",
+    "question": "Nghị định 46/2023/NĐ-CP thay thế cho nghị định nào, và nghị định bị thay thế đó có nội dung gì nổi bật về kinh doanh bảo hiểm?",
+    "scenario": "replacement_chain",
+    "expected_relationships": ["THAY_THE"],
+    "needs_human_review": true
+  },
+  {
+    "question_id": "Q02",
+    "question": "Văn bản hợp nhất số 52/VBHN-NHNN được hợp nhất từ văn bản nào, và quy định về hồ sơ, thủ tục cấp giấy phép lần đầu của ngân hàng thương mại gồm những tài liệu gì?",
+    "scenario": "consolidation_and_procedure",
+    "expected_relationships": ["HOP_NHAT"],
+    "needs_human_review": true
+  },
+  {
+    "question_id": "Q03",
+    "question": "Thông tư số 01/2025/TT-NHNN quy định về cấp giấy phép quỹ tín dụng nhân dân được sửa đổi, bổ sung bởi văn bản nào, và những nội dung sửa đổi bổ sung chính là gì?",
+    "scenario": "amendment_chain",
+    "expected_relationships": ["THAY_THE"],
+    "needs_human_review": true
+  },
+  {
+    "question_id": "Q04",
+    "question": "Thông tư số 41/2016/TT-NHNN về tỷ lệ an toàn vốn của ngân hàng căn cứ vào luật nào, và luật đó quy định chức năng nhiệm vụ của cơ quan nào?",
+    "scenario": "legal_basis",
+    "expected_relationships": ["CAN_CU"],
+    "needs_human_review": true
+  },
+  {
+    "question_id": "Q05",
+    "question": "Hoạt động giao nhận, vận chuyển tiền mặt và tài sản quý của Ngân hàng Nhà nước được điều chỉnh bởi Thông tư nào, và Thông tư đó có được sửa đổi bổ sung bởi văn bản nào không?",
+    "scenario": "regulation_and_amendment",
+    "expected_relationships": ["THAY_THE"],
+    "needs_human_review": true
+  }
+]

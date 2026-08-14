@@ -1,0 +1,226 @@
+﻿entity_id,entity_type,canonical_name,original_name,source_doc_id,method,confidence,evidence
+ent_f738d9f6982c7b6f,CoQuan,Bộ Tài chính,Bộ Tài chính,112924,metadata,0.99,Bộ Tài chính
+ent_f738d9f6982c7b6f,CoQuan,Bộ Tài chính,Bộ Tài chính,112924,gemini,1.0,BỘ TÀI CHÍNH CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ent_f738d9f6982c7b6f,CoQuan,Bộ Tài chính,Bộ Tài chính,143217,metadata,0.99,Bộ Tài chính
+ent_f738d9f6982c7b6f,CoQuan,Bộ Tài chính,Bộ Tài chính,143217,gemini,0.95,Bộ trưởng Bộ Tài chính ban hành Thông tư ban hành Quy chế mẫu về kiếm toán nội bộ áp dụng cho doanh nghiệp.
+ent_f738d9f6982c7b6f,CoQuan,Bộ Tài chính,Bộ Tài chính,150974,metadata,0.99,Bộ Tài chính
+ent_f738d9f6982c7b6f,CoQuan,Bộ Tài chính,Bộ Tài chính,150974,gemini,0.98,Bộ trưởng Bộ Tài chính ban hành Thông tư ban hành chuẩn mực kiểm toán nội bộ Việt Nam và các nguyên tắc đạo đức nghề nghiệp kiểm toán nội bộ.
+ent_f738d9f6982c7b6f,CoQuan,Bộ Tài chính,Bộ Tài chính,30402,metadata,0.99,Bộ Tài chính
+ent_f738d9f6982c7b6f,CoQuan,Bộ Tài chính,Bộ Tài chính,30402,gemini,1.0,"Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn về đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán."
+ent_f738d9f6982c7b6f,CoQuan,Bộ Tài chính,Bộ Tài chính,f69936f0-6937-11f1-a48d-29bc6b0fd706,metadata,0.99,Bộ Tài chính
+ent_f738d9f6982c7b6f,CoQuan,Bộ Tài chính,Bộ Tài chính,f69936f0-6937-11f1-a48d-29bc6b0fd706,gemini,0.95,BỘ TÀI CHÍNH __________ Số: 17/VBHN-BTC XÁC THỰC VĂN BẢN HỢP NHẤT
+ent_015434e5efab2d77,CoQuan,Chính phủ,Chính phủ,112025,metadata,0.99,Chính phủ
+ent_015434e5efab2d77,CoQuan,Chính phủ,CHÍNH PHỦ,112025,gemini,0.95,"Chính phủ ban hành Nghị định quy định chi tiết thi hành Luật kinh doanh bảo hiểm và Luật sửa đổi, bổ sung một số điều của Luật kinh doanh bảo hiểm."
+ent_015434e5efab2d77,CoQuan,Chính phủ,Chính phủ,133858,metadata,0.99,Chính phủ
+ent_015434e5efab2d77,CoQuan,Chính phủ,Chính phủ,133858,gemini,0.95,Chính phủ ban hành Nghị định về kiểm toán nội bộ.
+ent_015434e5efab2d77,CoQuan,Chính phủ,Chính phủ,146468,metadata,0.99,Chính phủ
+ent_015434e5efab2d77,CoQuan,Chính phủ,CHÍNH PHỦ,146468,gemini,1.0,CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ent_015434e5efab2d77,CoQuan,Chính phủ,Chính phủ,163441,metadata,0.99,Chính phủ
+ent_015434e5efab2d77,CoQuan,Chính phủ,Chính phủ,163441,gemini,0.99,Chính phủ ban hành Nghị định quy định chi tiết thi hành một số điều của Luật Kinh doanh bảo hiểm.
+ent_015434e5efab2d77,CoQuan,Chính phủ,Chính phủ,95652,metadata,0.99,Chính phủ
+ent_015434e5efab2d77,CoQuan,Chính phủ,Chính phủ,95652,gemini,0.98,Chính phủ ban hành Nghị định quy định về đầu tư giá n tiếp ra nước ngoài.
+ent_015434e5efab2d77,CoQuan,Chính phủ,Chính phủ,f69936f0-6937-11f1-a48d-29bc6b0fd706,gemini,0.95,Chính phủ ban hành Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,117310,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,117310,gemini,0.99,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,164719,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,164719,gemini,0.98,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,168220,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,168220,gemini,0.99,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,168859,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,168859,gemini,0.95,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,169221,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,169221,gemini,0.98,"Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư sửa đổi, bổ sung một số điều của Thông tư số 01/2014/TT-NHNN"
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,173460,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,173460,gemini,1.0,"Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định hồ sơ, thủ tục cấp Giấy phép lần đầu của tổ chức tín dụng phi ngân hàng."
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,173695,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,173695,gemini,0.95,"Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài ."
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,174218,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,174218,gemini,1.0,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,177271,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,177271,gemini,0.95,"Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về cấp Giấy phép lần đầu, cấp đổi Giấy phép của quỹ tín dụng nhân dân."
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,185630,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,185630,gemini,1.0,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,186482,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,186482,gemini,0.98,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,186888,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,186888,gemini,1.0,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,27257,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,27257,gemini,1.0,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,38128,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,38128,gemini,1.0,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,44209,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,44209,gemini,0.95,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+ent_98c0694606f989b8,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,gemini,1.0,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM Số: /VBHN-NHNN
+ent_1cdcaf71884e8a3b,CoQuan,Quốc hội,Quốc hội,166170,metadata,0.99,Quốc hội
+ent_1cdcaf71884e8a3b,CoQuan,Quốc hội,Quốc hội,166170,gemini,0.95,Quốc hội ban hành Luật Các tổ chức tín dụng.
+ent_1cdcaf71884e8a3b,CoQuan,Quốc hội,Quốc hội,166269,metadata,0.99,Quốc hội
+ent_1cdcaf71884e8a3b,CoQuan,Quốc hội,Quốc hội,166269,gemini,0.95,Quốc hội ban hành Luật Hợp tác xã.
+ent_1cdcaf71884e8a3b,CoQuan,Quốc hội,Quốc hội,25692,metadata,0.99,Quốc hội
+ent_1cdcaf71884e8a3b,CoQuan,Quốc hội,Quốc hội,25692,gemini,0.95,Quốc hội ban hành Luật Ngân hàng Nhà nước Việt Nam.
+ent_1cdcaf71884e8a3b,CoQuan,Quốc hội,Quốc hội,26750,metadata,0.99,Quốc hội
+ent_1cdcaf71884e8a3b,CoQuan,Quốc hội,Quốc hội,26750,gemini,0.95,Quốc hội ban hành Luật Kiểm toán độc lập
+ent_f3a1d194eb2987e5,DoiTuongApDung,"Bên mua bảo hiểm, người được bảo hiểm, người thụ hưởng","Bên mua bảo hiểm, người được bảo hiểm, người thụ hưởng",163441,gemini,0.95,"Bên mua bảo hiểm, người được bảo hiểm, người thụ hưởng"
+ent_a0f80c00e2d551f4,DoiTuongApDung,Chi nhánh ngân hàng nước ngoài,Chi nhánh ngân hàng nước ngoài,117310,gemini,0.95,"Đối tượng áp dụng gồm: a) Ngân hàng: Ngân hàng thương mại nhà nước, ngân hàng thương mại cổ phần, ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài; b) Chi nhánh ngân hàng nước ngoài."
+ent_a0f80c00e2d551f4,DoiTuongApDung,Chi nhánh ngân hàng nước ngoài,Chi nhánh ngân hàng nước ngoài,166170,gemini,0.95,2. Chi nhánh ngân hàng nước ngoài.
+ent_a0f80c00e2d551f4,DoiTuongApDung,Chi nhánh ngân hàng nước ngoài,Chi nhánh ngân hàng nước ngoài,173695,gemini,0.95,2. Chi nhánh ngân hàng nước ngoài.
+ent_a0f80c00e2d551f4,DoiTuongApDung,Chi nhánh ngân hàng nước ngoài,Chi nhánh ngân hàng nước ngoài,27257,gemini,1.0,2. Chi nhánh ngân hàng nước ngoài;
+ent_a0f80c00e2d551f4,DoiTuongApDung,Chi nhánh ngân hàng nước ngoài,Chi nhánh ngân hàng nước ngoài,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,gemini,0.95,2. Chi nhánh ngân hàng nước ngoài.
+ent_798f27e3c0786d74,DoiTuongApDung,Chi nhánh nước ngoài,Chi nhánh nước ngoài,112025,gemini,0.95,b) Chi nhánh nước ngoài;
+ent_7fabe44a4afcfca9,DoiTuongApDung,Chánh Văn phòng,Chánh Văn phòng,169221,gemini,0.95,"Chánh Văn phòng, Cục trưởng Cục Quản lý dự trữ ngoại hối nhà nước và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam chịu trách nhiệm tổ chức thực hiện Thông tư này."
+ent_ddd55f0b9f9c197e,DoiTuongApDung,"Chánh Văn phòng, Chánh Thanh tra, giám sát ngân hàng, Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước, ngân hàng, chi nhánh ngân hàng nước ngoài","Chánh Văn phòng, Chánh Thanh tra, giám sát ngân hàng, Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước, ngân hàng, chi nhánh ngân hàng nước ngoài",164719,gemini,0.95,"Điều 3. Trách nhiệm tổ chức thực hiện Chánh Văn phòng, Chánh Thanh tra, giám sát ngân hàng, Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước, ngân hàng, chi nhánh ngân hàng nước ngoài chịu trách nhiệm tổ chức thực hiện Thông tư này."
+ent_065f0aea2863ba2e,DoiTuongApDung,"Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ","Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ",133858,gemini,0.95,"a) Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;"
+ent_3ce2ac8e65738e6a,DoiTuongApDung,Các cơ quan quản lý nhà nước tham gia quản lý hoạt động đầu tư gián tiếp ra nước ngoài,Các cơ quan quản lý nhà nước tham gia quản lý hoạt động đầu tư gián tiếp ra nước ngoài,95652,gemini,0.95,2. Các cơ quan quản lý nhà nước tham gia quản lý hoạt động đầu tư gián tiếp ra nước ngoài theo quy định tại Nghị định này.
+ent_d7fcda4370f4315d,DoiTuongApDung,Các doanh nghiệp,Các doanh nghiệp,133858,gemini,0.95,d) Các doanh nghiệp;
+ent_b118f8488148ab18,DoiTuongApDung,Các doanh nghiệp không thuộc quy định tại khoản 1 Điều này,Các doanh nghiệp không thuộc quy định tại khoản 1 Điều này,143217,gemini,0.85,Các doanh nghiệp không thuộc quy định tại khoản 1 Điều này được khuyến khích xây dựng Quy chế kiểm toán nội bộ trên cơ sở tham chiếu mẫu Quy chế kiểm toán nội bộ ban hành kèm theo Thông tư này.
+ent_17370a142731f7d3,DoiTuongApDung,các doanh nghiệp quy định tại khoản 1 Điều 10 Nghị định số 05/2019/NĐ-CP,các doanh nghiệp quy định tại khoản 1 Điều 10 Nghị định số 05/2019/NĐ-CP,143217,gemini,0.9,Thông tư này áp dụng đối với các doanh nghiệp quy định tại khoản 1 Điều 10 Nghị định số 05/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về kiếm toán nội bộ.
+ent_d04fab0e5fd0fa8d,DoiTuongApDung,"các doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp công lập quy định tại Điều 8, Điều 9, Điều 10 Nghị định số 05/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về kiểm toán nội bộ và các tổ chức cá nhân có liên quan trong hoạt động kiểm toán nội bộ của các đơn vị này","các doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp công lập quy định tại Điều 8, Điều 9, Điều 10 Nghị định số 05/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về kiểm toán nội bộ và các tổ chức cá nhân có liên quan trong hoạt động kiểm toán nội bộ của các đơn vị này",150974,gemini,0.95,"Chuẩn mực kiểm toán nội bộ Việt Nam và các nguyên tắc đạo đức nghề nghiệp kiểm toán nội bộ áp dụng đối với các doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp công lập quy định tại Điều 8, Điều 9, Điều 10 Nghị định số 05/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về kiểm toán nội bộ và các tổ chức cá nhân có liên quan trong hoạt động kiểm toán nội bộ của các đơn vị này."
+ent_a83e76d0d0f195cf,DoiTuongApDung,"Các tổ chức, cá nhân có liên quan đến hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài và văn phòng đại diện nước ngoài","Các tổ chức, cá nhân có liên quan đến hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài và văn phòng đại diện nước ngoài",173695,gemini,0.9,"4. Các tổ chức, cá nhân có liên quan đến hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài và văn phòng đại diện nước ngoài."
+ent_a83e76d0d0f195cf,DoiTuongApDung,"Các tổ chức, cá nhân có liên quan đến hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài và văn phòng đại diện nước ngoài","Các tổ chức, cá nhân có liên quan đến hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài và văn phòng đại diện nước ngoài",6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,gemini,0.9,"4. Các tổ chức, cá nhân có liên quan đến hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài và văn phòng đại diện nước ngoài."
+ent_63c69278dc2b66e4,DoiTuongApDung,"Các tổ chức, cá nhân có liên quan đến việc cấp Giấy phép lần đầu của tổ chức tín dụng phi ngân hàng","Các tổ chức, cá nhân có liên quan đến việc cấp Giấy phép lần đầu của tổ chức tín dụng phi ngân hàng",173460,gemini,1.0,"3. Các tổ chức, cá nhân có liên quan đến việc cấp Giấy phép lần đầu của tổ chức tín dụng phi ngân hàng."
+ent_090bf89f55f64c81,DoiTuongApDung,"Các tổ chức, cá nhân khác có liên quan","Các tổ chức, cá nhân khác có liên quan",112025,gemini,0.9,"d) Các tổ chức, cá nhân khác có liên quan."
+ent_5e0c2094bd0898ac,DoiTuongApDung,"Các tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán nội bộ","Các tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán nội bộ",133858,gemini,0.95,"đ) Các tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán nội bộ."
+ent_0bccde94640edc6d,DoiTuongApDung,"Các tổ chức, cá nhân khác có liên quan đến hoạt động đầu tư gián tiếp ra nước ngoài","Các tổ chức, cá nhân khác có liên quan đến hoạt động đầu tư gián tiếp ra nước ngoài",95652,gemini,0.95,"3. Các tổ chức, cá nhân khác có liên quan đến hoạt động đầu tư gián tiếp ra nước ngoài."
+ent_120a7b68d74b2952,DoiTuongApDung,Các đơn vị có liên quan thuộc Ngân hàng Nhà nước,Các đơn vị có liên quan thuộc Ngân hàng Nhà nước,38128,gemini,1.0,Điều 2. Đối tượng áp dụng 1. Các đơn vị có liên quan thuộc Ngân hàng Nhà nước.
+ent_3ffb0b55f67aafbb,DoiTuongApDung,Các đơn vị sự nghiệp công lập,Các đơn vị sự nghiệp công lập,133858,gemini,0.95,c) Các đơn vị sự nghiệp công lập;
+ent_fca07e924f4d8236,DoiTuongApDung,các đơn vị thuộc Ngân hàng Nhà nước Việt Nam,các đơn vị thuộc Ngân hàng Nhà nước Việt Nam,185630,gemini,0.95,"Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, ngân hàng hợp tác xã, quỹ tín dụng nhân dân có trách nhiệm tổ chức thực hiện Thông tư này."
+ent_0fa226c710ea200f,DoiTuongApDung,Công ty tài chính chuyên ngành,Công ty tài chính chuyên ngành,173460,gemini,1.0,2. Công ty tài chính chuyên ngành.
+ent_00602efd97d08612,DoiTuongApDung,Công ty tài chính tổng hợp,Công ty tài chính tổng hợp,173460,gemini,1.0,Điều 2. Đối tượng áp dụng 1. Công ty tài chính tổng hợp.
+ent_639b9b5a892fc242,DoiTuongApDung,Cơ quan quản lý nhà nước về hoạt động kinh doanh bảo hiểm,Cơ quan quản lý nhà nước về hoạt động kinh doanh bảo hiểm,163441,gemini,0.95,Cơ quan quản lý nhà nước về hoạt động kinh doanh bảo hiểm.
+ent_b7a2560072f910fe,DoiTuongApDung,"Cơ quan, tổ chức, cá nhân có liên quan","Cơ quan, tổ chức, cá nhân có liên quan",166170,gemini,0.9,"5. Cơ quan, tổ chức, cá nhân có liên quan đến việc thành lập, tổ chức, hoạt động, can thiệp sớm, kiểm soát đặc biệt, tổ chức lại, giải thể, phá sản tổ chức tín dụng"
+ent_1eb567527fec445b,DoiTuongApDung,"Cơ quan, tổ chức, cá nhân có liên quan đến thành lập, tổ chức quản lý, tổ chức lại, giải thể, phá sản và hoạt động có liên quan của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã","Cơ quan, tổ chức, cá nhân có liên quan đến thành lập, tổ chức quản lý, tổ chức lại, giải thể, phá sản và hoạt động có liên quan của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",166269,gemini,0.95,"3. Cơ quan, tổ chức, cá nhân có liên quan đến thành lập, tổ chức quản lý, tổ chức lại, giải thể, phá sản và hoạt động có liên quan của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã."
+ent_6ff6479531415a80,DoiTuongApDung,Cục trưởng Cục Quản lý dự trữ ngoại hối nhà nước,Cục trưởng Cục Quản lý dự trữ ngoại hối nhà nước,169221,gemini,0.95,"Chánh Văn phòng, Cục trưởng Cục Quản lý dự trữ ngoại hối nhà nước và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam chịu trách nhiệm tổ chức thực hiện Thông tư này."
+ent_7c65ba914db36111,DoiTuongApDung,Doanh nghiệp bảo hiểm,Doanh nghiệp bảo hiểm,112025,gemini,0.95,Nghị định này áp dụng đối với: a) Doanh nghiệp bảo hiểm;
+ent_c46f3a7601ec0842,DoiTuongApDung,"Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam","Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam",30402,gemini,0.95,"2. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam (sau đây gọi chung là doanh nghiệp kiểm toán)."
+ent_0437d2be7032e6f3,DoiTuongApDung,"Doanh nghiệp môi giới bảo hiểm, đại lý bảo hiểm","Doanh nghiệp môi giới bảo hiểm, đại lý bảo hiểm",112025,gemini,0.95,"c) Doanh nghiệp môi giới bảo hiểm, đại lý bảo hiểm;"
+ent_5a17d2b80fa01295,DoiTuongApDung,"Khách hàng trong quan hệ giao dịch tiền mặt, tài sản quý, giấy tờ có giá với Ngân hàng Nhà nước, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài","Khách hàng trong quan hệ giao dịch tiền mặt, tài sản quý, giấy tờ có giá với Ngân hàng Nhà nước, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",44209,gemini,0.95,"3. Khách hàng trong quan hệ giao dịch tiền mặt, tài sản quý, giấy tờ có giá với Ngân hàng Nhà nước, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài."
+ent_86e864802c407649,DoiTuongApDung,"Kiểm toán viên đăng ký hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam","Kiểm toán viên đăng ký hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam",30402,gemini,0.95,"1. Kiểm toán viên đăng ký hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam."
+ent_56f09eacc51aec68,DoiTuongApDung,"kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập","kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập",26750,gemini,0.95,"Điều 2. Đối tượng áp dụng Luật này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập."
+ent_3b871533517390a8,DoiTuongApDung,Ngân hàng hợp tác xã,Ngân hàng hợp tác xã,168220,gemini,0.98,Điều 2. Đối tượng áp dụng 1. Ngân hàng hợp tác xã.
+ent_3b871533517390a8,DoiTuongApDung,Ngân hàng hợp tác xã,Ngân hàng hợp tác xã,168859,gemini,0.95,2. Ngân hàng hợp tác xã.
+ent_3b871533517390a8,DoiTuongApDung,Ngân hàng hợp tác xã,ngân hàng hợp tác xã,185630,gemini,0.95,"Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, ngân hàng hợp tác xã, quỹ tín dụng nhân dân có trách nhiệm tổ chức thực hiện Thông tư này."
+ent_f3dacdd0e784d408,DoiTuongApDung,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,25692,gemini,0.95,Luật này quy định về tổ chức và hoạt động của Ngân hàng Nhà nước Việt Nam.
+ent_f3dacdd0e784d408,DoiTuongApDung,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,44209,gemini,0.95,Điều 2. Đối tượng áp dụng 1. Ngân hàng Nhà nước Việt Nam (sau đây gọi tắt là Ngân hàng Nhà nước).
+ent_c152cb9d99efaba7,DoiTuongApDung,Ngân hàng thương mại,Ngân hàng thương mại,173695,gemini,0.95,Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với: 1. Ngân hàng thương mại.
+ent_c152cb9d99efaba7,DoiTuongApDung,Ngân hàng thương mại,Ngân hàng thương mại,174218,gemini,0.95,Điều 2. Đối tượng áp dụng 1. Các tổ chức tín dụng bao gồm: a) Ngân hàng thương mại;
+ent_c152cb9d99efaba7,DoiTuongApDung,Ngân hàng thương mại,Ngân hàng thương mại,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,gemini,0.95,Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với: 1. Ngân hàng thương mại.
+ent_a7a0a5d367420fae,DoiTuongApDung,"Ngân hàng thương mại nhà nước, ngân hàng thương mại cổ phần, ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài","Ngân hàng thương mại nhà nước, ngân hàng thương mại cổ phần, ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài",117310,gemini,0.95,"Đối tượng áp dụng gồm: a) Ngân hàng: Ngân hàng thương mại nhà nước, ngân hàng thương mại cổ phần, ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài;"
+ent_30a2a4ce00c9e87f,DoiTuongApDung,"ngân hàng, chi nhánh ngân hàng nước ngoài","ngân hàng, chi nhánh ngân hàng nước ngoài",164719,gemini,0.95,"quy định tỷ lệ an toàn vốn đối với ngân hàng, chi nhánh ngân hàng nước ngoài"
+ent_5ed579e72aa58417,DoiTuongApDung,người làm công tác kiểm toán nội bộ và bộ phận kiểm toán nội bộ,người làm công tác kiểm toán nội bộ và bộ phận kiểm toán nội bộ,150974,gemini,0.9,Chuẩn mực được áp dụng cho người làm công tác kiểm toán nội bộ và bộ phận kiểm toán nội bộ.
+ent_e84455545ea106c2,DoiTuongApDung,Nhà máy in tiền Quốc gia,Nhà máy in tiền Quốc gia,38128,gemini,1.0,2. Nhà máy in tiền Quốc gia.
+ent_5e3f5c45fbc6052b,DoiTuongApDung,Nhà đầu tư,Nhà đầu tư,95652,gemini,0.95,1. Nhà đầu tư gồm các đối tượng sau: a) Tổ chức kinh tế theo quy định tại Khoản 16 Điều 3 Luật Đầu tư; b) Cá nhân có quốc tịch Việt Nam thuộc đối tượng được tham gia chương trình thưởng cổ phiếu phát hành ở nước ngoài.
+ent_f416ce1b681c4d9b,DoiTuongApDung,Quỹ tín dụng nhân dân,Quỹ tín dụng nhân dân,168220,gemini,0.98,Điều 2. Đối tượng áp dụng 1. Ngân hàng hợp tác xã. 2. Quỹ tín dụng nhân dân.
+ent_f416ce1b681c4d9b,DoiTuongApDung,Quỹ tín dụng nhân dân,Quỹ tín dụng nhân dân,168859,gemini,0.95,Điều 2. Đối tượng áp dụng 1. Quỹ tín dụng nhân dân.
+ent_f416ce1b681c4d9b,DoiTuongApDung,Quỹ tín dụng nhân dân,Quỹ tín dụng nhân dân,177271,gemini,0.95,Điều 2. Đối tượng áp dụng 1. Quỹ tín dụng nhân dân.
+ent_f416ce1b681c4d9b,DoiTuongApDung,Quỹ tín dụng nhân dân,quỹ tín dụng nhân dân,185630,gemini,0.95,"Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, ngân hàng hợp tác xã, quỹ tín dụng nhân dân có trách nhiệm tổ chức thực hiện Thông tư này."
+ent_ff4b55c754f9fb89,DoiTuongApDung,"Thành viên của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã","Thành viên của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",166269,gemini,0.95,"2. Thành viên của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã."
+ent_1054fe708f8090b2,DoiTuongApDung,Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam,Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam,169221,gemini,0.95,"Chánh Văn phòng, Cục trưởng Cục Quản lý dự trữ ngoại hối nhà nước và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam chịu trách nhiệm tổ chức thực hiện Thông tư này."
+ent_587ab6a986a6d453,DoiTuongApDung,"Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam","Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam",186482,gemini,0.95,"Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam chịu trách nhiệm thực hiện Thông tư này./."
+ent_baaea301a2766d3a,DoiTuongApDung,"tổ chức kinh doanh chứng khoán, quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán, doanh nghiệp kinh doanh bảo hiểm và các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động đầu tư gián tiếp ra nước ngoài","tổ chức kinh doanh chứng khoán, quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán, doanh nghiệp kinh doanh bảo hiểm và các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động đầu tư gián tiếp ra nước ngoài",112924,gemini,0.95,"Thông tư này áp dụng đối với tổ chức kinh doanh chứng khoán, quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán, doanh nghiệp kinh doanh bảo hiểm và các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động đầu tư gián tiếp ra nước ngoài."
+ent_7a33c7cef796dfec,DoiTuongApDung,"Tổ chức mà Nhà nước sở hữu 100% vốn điều lệ có chức năng mua, bán, xử lý nợ","Tổ chức mà Nhà nước sở hữu 100% vốn điều lệ có chức năng mua, bán, xử lý nợ",166170,gemini,0.9,"4. Tổ chức mà Nhà nước sở hữu 100% vốn điều lệ có chức năng mua, bán, xử lý nợ (sau đây gọi là tổ chức mua bán, xử lý nợ)."
+ent_7d26675c1d3289f2,DoiTuongApDung,Tổ chức tài chính vi mô,Tổ chức tài chính vi mô,186888,gemini,0.95,2. Tổ chức tài chính vi mô.
+ent_f7cce62e224d7722,DoiTuongApDung,Tổ chức tín dụng,Tổ chức tín dụng,166170,gemini,0.95,Điều 2. Đối tượng áp dụng 1. Tổ chức tín dụng.
+ent_f7cce62e224d7722,DoiTuongApDung,Tổ chức tín dụng,Tổ chức tín dụng,27257,gemini,1.0,Điều 2. Đối tượng áp dụng 1. Tổ chức tín dụng;
+ent_44f04fad774690af,DoiTuongApDung,"Tổ chức tín dụng là hợp tác xã bao gồm ngân hàng hợp tác xã, quỹ tín dụng nhân dân","Tổ chức tín dụng là hợp tác xã bao gồm ngân hàng hợp tác xã, quỹ tín dụng nhân dân",186888,gemini,0.95,"1. Tổ chức tín dụng là hợp tác xã bao gồm ngân hàng hợp tác xã, quỹ tín dụng nhân dân."
+ent_26efcbfc8591e99b,DoiTuongApDung,Tổ chức tín dụng phi ngân hàng,Tổ chức tín dụng phi ngân hàng,174218,gemini,0.95,b) Tổ chức tín dụng phi ngân hàng bao gồm công ty tài chính tổng hợp và công ty tài chính chuyên ngành.
+ent_1d7e563dc0d0a3e9,DoiTuongApDung,"Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài","Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",44209,gemini,0.95,"Điều 2. Đối tượng áp dụng 1. Ngân hàng Nhà nước Việt Nam (sau đây gọi tắt là Ngân hàng Nhà nước). 2. Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài."
+ent_a48b5f7376a16481,DoiTuongApDung,Tổ chức và cá nhân có liên quan đến hoạt động kinh doanh bảo hiểm,Tổ chức và cá nhân có liên quan đến hoạt động kinh doanh bảo hiểm,163441,gemini,0.95,Tổ chức và cá nhân có liên quan đến hoạt động kinh doanh bảo hiểm.
+ent_c71a3da0ec279c77,DoiTuongApDung,"Tổ chức, cá nhân có liên quan đến hệ thống kiểm soát nội bộ của tổ chức tín dụng","Tổ chức, cá nhân có liên quan đến hệ thống kiểm soát nội bộ của tổ chức tín dụng",186888,gemini,0.95,"3. Tổ chức, cá nhân có liên quan đến hệ thống kiểm soát nội bộ của tổ chức tín dụng."
+ent_6956103aef150326,DoiTuongApDung,"Tổ chức, cá nhân có liên quan đến hệ thống kiểm soát nội bộ và kiểm toán nội bộ của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài","Tổ chức, cá nhân có liên quan đến hệ thống kiểm soát nội bộ và kiểm toán nội bộ của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",27257,gemini,0.95,"3. Tổ chức, cá nhân có liên quan đến hệ thống kiểm soát nội bộ và kiểm toán nội bộ của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài."
+ent_b34fdf9ce0b61620,DoiTuongApDung,"Tổ chức, cá nhân có liên quan đến phạm vi điều chỉnh quy định tại Điều 1 Thông tư này","Tổ chức, cá nhân có liên quan đến phạm vi điều chỉnh quy định tại Điều 1 Thông tư này",168220,gemini,0.95,"3. Tổ chức, cá nhân có liên quan đến phạm vi điều chỉnh quy định tại Điều 1 Thông tư này."
+ent_8e4eaa8d1f9d554a,DoiTuongApDung,"Tổ chức, cá nhân có liên quan đến quản trị, điều hành, tổ chức và hoạt động của quỹ tín dụng nhân dân","Tổ chức, cá nhân có liên quan đến quản trị, điều hành, tổ chức và hoạt động của quỹ tín dụng nhân dân",168859,gemini,0.95,"3. Tổ chức, cá nhân có liên quan đến quản trị, điều hành, tổ chức và hoạt động của quỹ tín dụng nhân dân."
+ent_bce97600cb09b0de,DoiTuongApDung,"Tổ chức, cá nhân có liên quan đến việc cấp Giấy phép lần đầu, cấp đổi Giấy phép của quỹ tín dụng nhân dân, cấp bản sao Giấy phép từ sổ gốc","Tổ chức, cá nhân có liên quan đến việc cấp Giấy phép lần đầu, cấp đổi Giấy phép của quỹ tín dụng nhân dân, cấp bản sao Giấy phép từ sổ gốc",177271,gemini,0.95,"2. Tổ chức, cá nhân có liên quan đến việc cấp Giấy phép lần đầu, cấp đổi Giấy phép của quỹ tín dụng nhân dân, cấp bản sao Giấy phép từ sổ gốc."
+ent_974f27d89692f196,DoiTuongApDung,"Tổ chức, cá nhân có liên quan đến việc tổ chức lại tổ chức tín dụng","Tổ chức, cá nhân có liên quan đến việc tổ chức lại tổ chức tín dụng",174218,gemini,0.95,"2. Tổ chức, cá nhân có liên quan đến việc tổ chức lại tổ chức tín dụng."
+ent_8f8116b6ed0547c2,DoiTuongApDung,"Tổ chức, cá nhân có liên quan đến việc đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán","Tổ chức, cá nhân có liên quan đến việc đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán",30402,gemini,0.95,"3. Tổ chức, cá nhân có liên quan đến việc đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán."
+ent_855faa01926b9bcd,DoiTuongApDung,"Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền","Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền",38128,gemini,1.0,"3. Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền."
+ent_f0c9b831b72a0444,DoiTuongApDung,"Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài","Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài",146468,gemini,0.95,"Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài (sau đây gọi chung là tổ chức, cá nhân) thực hiện hành vi vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán quy định tại Nghị định này."
+ent_f0c9b831b72a0444,DoiTuongApDung,"Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài","Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài",f69936f0-6937-11f1-a48d-29bc6b0fd706,gemini,0.9,"Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài (sau đây gọi chung là Tổ chức, cá nhân) thực hiện hành vi vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán quy định tại Nghị định này."
+ent_1c16d2bc61a740f0,DoiTuongApDung,"Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã","Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",166269,gemini,0.95,"Điều 2. Đối tượng áp dụng 1. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã."
+ent_2693e98696734277,DoiTuongApDung,"Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng","Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng",166170,gemini,0.9,"3. Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng (sau đây gọi là văn phòng đại diện nước ngoài)."
+ent_2693e98696734277,DoiTuongApDung,"Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng","Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng",173695,gemini,0.95,"3. Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng (sau đây gọi là văn phòng đại diện nước ngoài)."
+ent_2693e98696734277,DoiTuongApDung,"Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng","Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng",6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,gemini,0.95,"3. Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng (sau đây gọi là văn phòng đại diện nước ngoài)."
+ent_660d1dbb96a72415,DoiTuongApDung,Vụ trưởng Vụ Chế độ kế toán và kiểm toán,Vụ trưởng Vụ Chế độ kế toán và kiểm toán,30402,gemini,0.9,"Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này."
+ent_fb0157b6ffe48c04,DoiTuongApDung,"Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương","Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương",133858,gemini,0.95,"b) Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương;"
+ent_e8d8481ba38b897b,LinhVuc,Bảo hiểm,Bảo hiểm,163441,metadata,0.99,Bảo hiểm
+ent_2e87ad75c32066d5,LinhVuc,Chứng khoán,Chứng khoán,146468,metadata,0.99,Chứng khoán
+ent_2e87ad75c32066d5,LinhVuc,Chứng khoán,chứng khoán và thị trường chứng khoán,146468,gemini,0.95,Quy định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán
+ent_2e87ad75c32066d5,LinhVuc,Chứng khoán,chứng khoán và thị trường chứng khoán,f69936f0-6937-11f1-a48d-29bc6b0fd706,gemini,0.9,Quy định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán
+ent_dcf4b5e8d651c5d4,LinhVuc,Cục An toàn hệ thống các tổ chức tín dụng,Cục An toàn hệ thống các tổ chức tín dụng,177271,metadata,0.99,Cục An toàn hệ thống các tổ chức tín dụng
+ent_dcf4b5e8d651c5d4,LinhVuc,Cục An toàn hệ thống các tổ chức tín dụng,Cục An toàn hệ thống các tổ chức tín dụng,186482,metadata,0.99,Cục An toàn hệ thống các tổ chức tín dụng
+ent_dcf4b5e8d651c5d4,LinhVuc,Cục An toàn hệ thống các tổ chức tín dụng,Cục An toàn hệ thống các tổ chức tín dụng,186888,metadata,0.99,Cục An toàn hệ thống các tổ chức tín dụng
+ent_d8da81143a9651e6,LinhVuc,Kinh doanh bảo hiểm,Kinh doanh bảo hiểm,163441,gemini,0.95,Nghị định quy định chi tiết thi hành một số điều của Luật Kinh doanh bảo hiểm.
+ent_cb3942e64f2a0f5d,LinhVuc,"Kế toán, kiểm toán","Kế toán, kiểm toán",150974,metadata,0.99,"Kế toán, kiểm toán"
+ent_f8280a425299c2ce,LinhVuc,"Lao động, tiền lương, tiền công","Lao động, tiền lương, tiền công",185630,metadata,0.99,"Lao động, tiền lương, tiền công"
+ent_97c9991b830b89c2,LinhVuc,Phát hành và kho quỹ,Phát hành và kho quỹ,38128,metadata,0.99,Phát hành và kho quỹ
+ent_97c9991b830b89c2,LinhVuc,Phát hành và kho quỹ,Phát hành và kho quỹ,44209,metadata,0.99,Phát hành và kho quỹ
+ent_1fc6baf6a2b56ee9,LinhVuc,Quản lý dịch vụ tài chính và các quỹ tài chính,Quản lý dịch vụ tài chính và các quỹ tài chính,30402,metadata,0.99,Quản lý dịch vụ tài chính và các quỹ tài chính
+ent_4db4a0f294e63d75,LinhVuc,quản lý dự trữ ngoại hối nhà nước,quản lý dự trữ ngoại hối nhà nước,169221,gemini,0.9,hướng dẫn việc tổ chức thực hiện hoạt động quản lý dự trữ ngoại hối nhà nước
+ent_7098a42e5d76e456,LinhVuc,Quản lý ngoại hối,Quản lý ngoại hối,169221,metadata,0.99,Quản lý ngoại hối
+ent_5e27352f38bb7b0a,LinhVuc,"quản lý, giám sát ngân hàng","quản lý, giám sát ngân hàng",186482,gemini,0.95,"trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh, đơn giản hóa thủ tục hành chính"
+ent_f9b6a1560b8cb974,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",117310,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+ent_f9b6a1560b8cb974,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",164719,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+ent_f9b6a1560b8cb974,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",168220,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+ent_f9b6a1560b8cb974,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",168859,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+ent_f9b6a1560b8cb974,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",173460,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+ent_f9b6a1560b8cb974,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",173695,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+ent_f9b6a1560b8cb974,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",174218,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+ent_9f4d9755f0695734,LinhVuc,thành lập và hoạt động ngân hàng,thành lập và hoạt động ngân hàng,168859,gemini,0.8,trong lĩnh vực thành lập và hoạt động ngân hàng.
+ent_8f237a638ffb9b46,LinhVuc,tiền tệ và ngân hàng,tiền tệ và ngân hàng,25692,gemini,0.9,nhân danh Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam về lĩnh vực tiền tệ và ngân hàng.
+ent_bfc023b25f04a8d1,LinhVuc,Tín dụng,Tín dụng,166170,metadata,0.99,Tín dụng
+ent_84e5423ab8bd3c31,NguoiKy,Lê Minh Khái,Lê Minh Khái,163441,metadata,0.99,Lê Minh Khái
+ent_5cdeaf72cfc2527d,NguoiKy,Nguyễn Phú Trọng,Nguyễn Phú Trọng,25692,metadata,0.99,Nguyễn Phú Trọng
+ent_5cdeaf72cfc2527d,NguoiKy,Nguyễn Phú Trọng,Nguyễn Phú Trọng,26750,metadata,0.99,Nguyễn Phú Trọng
+ent_5cdeaf72cfc2527d,NguoiKy,Nguyễn Phú Trọng,Nguyễn Phú Trọng,26750,gemini,0.95,CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Phú Trọng
+ent_62df3c48cfcb3e2f,NguoiKy,Nguyễn Tấn Dũng,Nguyễn Tấn Dũng,95652,metadata,0.99,Nguyễn Tấn Dũng
+ent_62df3c48cfcb3e2f,NguoiKy,Nguyễn Tấn Dũng,Nguyễn Tấn Dũng,95652,gemini,0.99,TM. CHÍNH PHỦ THỦ TƯỚNG CHÍNH PHỦ (Đã ký) Nguyễn Tấn Dũng
+ent_3c0d3dae7afa29e9,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,112025,metadata,0.99,Nguyễn Xuân Phúc
+ent_3c0d3dae7afa29e9,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,112025,gemini,0.95,TM. CHÍNH PHỦ THỦ TƯỚNG CHÍNH PHỦ (Đã ký) Nguyễn Xuân Phúc
+ent_3c0d3dae7afa29e9,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,133858,metadata,0.99,Nguyễn Xuân Phúc
+ent_3c0d3dae7afa29e9,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,133858,gemini,0.95,TM. CHÍNH PHỦ THỦ TƯỚNG CHÍNH PHỦ (Đã ký) Nguyễn Xuân Phúc
+ent_3c0d3dae7afa29e9,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,146468,metadata,0.99,Nguyễn Xuân Phúc
+ent_3c0d3dae7afa29e9,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,146468,gemini,1.0,TM. CHÍNH PHỦ THỦ TƯỚNG (đã ký) Nguyễn Xuân Phúc
+ent_67185c6a27ee2bf2,NguoiKy,Nguyễn Đồng Tiến,Nguyễn Đồng Tiến,117310,metadata,0.99,Nguyễn Đồng Tiến
+ent_67185c6a27ee2bf2,NguoiKy,Nguyễn Đồng Tiến,Nguyễn Đồng Tiến,117310,gemini,0.99,KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC (Đã ký) Nguyễn Đồng Tiến
+ent_8a6d9d75835cdd38,NguoiKy,Nguyễn Đức Chi,Nguyễn Đức Chi,f69936f0-6937-11f1-a48d-29bc6b0fd706,metadata,0.99,Nguyễn Đức Chi
+ent_8a6d9d75835cdd38,NguoiKy,Nguyễn Đức Chi,Nguyễn Đức Chi,f69936f0-6937-11f1-a48d-29bc6b0fd706,gemini,0.95,KT. BỘ TRƯỞNG THỨ TRƯỞNG Nguyễn Đức Chi
+ent_f089d0435d0a9be4,NguoiKy,Phạm Thanh Hà,Phạm Thanh Hà,169221,metadata,0.99,Phạm Thanh Hà
+ent_f089d0435d0a9be4,NguoiKy,Phạm Thanh Hà,Phạm Thanh Hà,169221,gemini,0.98,KT THỐNG ĐỐC PHÓ THỐNG ĐỐC (Đã ký) Phạm Thanh Hà
+ent_b918609505bd5491,NguoiKy,Trần Minh Tuấn,Trần Minh Tuấn,27257,metadata,0.99,Trần Minh Tuấn
+ent_b918609505bd5491,NguoiKy,Trần Minh Tuấn,Trần Minh Tuấn,27257,gemini,1.0,KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC Trần Minh Tuấn
+ent_06e3fa9da5e30415,NguoiKy,Trần Xuân Hà,Trần Xuân Hà,112924,metadata,0.99,Trần Xuân Hà
+ent_06e3fa9da5e30415,NguoiKy,Trần Xuân Hà,Trần Xuân Hà,112924,gemini,1.0,KT. BỘ TRƯỞNG THỨ TRƯỞNG (Đã ký) Trần Xuân Hà
+ent_06e3fa9da5e30415,NguoiKy,Trần Xuân Hà,Trần Xuân Hà,30402,metadata,0.99,Trần Xuân Hà
+ent_06e3fa9da5e30415,NguoiKy,Trần Xuân Hà,Trần Xuân Hà,30402,gemini,1.0,KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Xuân Hà
+ent_5d6a62f10b7be468,NguoiKy,Tạ Anh Tuấn,Tạ Anh Tuấn,150974,metadata,0.99,Tạ Anh Tuấn
+ent_5d6a62f10b7be468,NguoiKy,Tạ Anh Tuấn,Tạ Anh Tuấn,150974,gemini,0.95,KT. BỘ TRƯỞNG THỨ TRƯỞNG (Đã ký) Tạ Anh Tuấn
+ent_7186f7074373cc96,NguoiKy,Vương Đình Huệ,Vương Đình Huệ,166170,metadata,0.99,Vương Đình Huệ
+ent_7186f7074373cc96,NguoiKy,Vương Đình Huệ,Vương Đình Huệ,166170,gemini,0.95,CHỦ TỊCH QUỐC HỘI Vương Đình Huệ
+ent_7186f7074373cc96,NguoiKy,Vương Đình Huệ,Vương Đình Huệ,166269,metadata,0.99,Vương Đình Huệ
+ent_7186f7074373cc96,NguoiKy,Vương Đình Huệ,Vương Đình Huệ,166269,gemini,0.95,CHỦ TỊCH QUỐC HỘI (Đã ký) Vương Đình Huệ
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,164719,metadata,0.99,Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,164719,gemini,0.98,KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC (Đã ký) Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,173460,metadata,0.99,Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,173460,gemini,1.0,KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC (Đã ký) Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,173695,metadata,0.99,Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,173695,gemini,0.95,KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC (Đã ký) Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,174218,metadata,0.99,Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,174218,gemini,1.0,KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC (Đã ký) Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,177271,metadata,0.99,Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,177271,gemini,0.95,KT. thống đốc PHÓ THỐNG ĐỐC (Đã ký) Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,185630,metadata,0.99,Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,185630,gemini,1.0,KT.THỐNG ĐỐC PHÓ THỐNG ĐỐC (Đã ký) Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,186482,metadata,0.99,Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,186482,gemini,0.98,KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC (Đã ký) Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,186888,metadata,0.99,Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,186888,gemini,1.0,PHÓ THỐNG ĐỐC (Đã ký) Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,metadata,0.99,Đoàn Thái Sơn
+ent_0db1fd25d8655c63,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,gemini,1.0,KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC Đoàn Thái Sơn
+ent_0182773d036251b0,NguoiKy,Đào Minh Tú,Đào Minh Tú,168220,metadata,0.99,Đào Minh Tú
+ent_0182773d036251b0,NguoiKy,Đào Minh Tú,Đào Minh Tú,168220,gemini,0.99,KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC (Đã ký) Đào Minh Tú
+ent_0182773d036251b0,NguoiKy,Đào Minh Tú,Đào Minh Tú,168859,metadata,0.99,Đào Minh Tú
+ent_0182773d036251b0,NguoiKy,Đào Minh Tú,Đào Minh Tú,168859,gemini,0.95,kt. thống đốc PHÓ THỐNG ĐỐC Đào Minh Tú
+ent_0182773d036251b0,NguoiKy,Đào Minh Tú,Đào Minh Tú,38128,metadata,0.99,Đào Minh Tú
+ent_0182773d036251b0,NguoiKy,Đào Minh Tú,Đào Minh Tú,38128,gemini,1.0,KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC (Đã ký) Đào Minh Tú
+ent_0182773d036251b0,NguoiKy,Đào Minh Tú,Đào Minh Tú,44209,metadata,0.99,Đào Minh Tú
+ent_0182773d036251b0,NguoiKy,Đào Minh Tú,Đào Minh Tú,44209,gemini,0.95,KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC Đào Minh Tú
+ent_ffb6ed909ae04edb,NguoiKy,Đỗ Hoàng Anh Tuấn,Đỗ Hoàng Anh Tuấn,143217,gemini,0.95,KT. BỘ TRƯỞNG THỨ TRƯỞNG (Đã ký) Đỗ Hoàng Anh Tuấn

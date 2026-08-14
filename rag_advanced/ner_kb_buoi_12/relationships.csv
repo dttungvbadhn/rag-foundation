@@ -1,0 +1,188 @@
+﻿source,target,relationship_type,method,confidence,evidence
+112025,ent_015434e5efab2d77,BAN_HANH_BOI,metadata,0.99,Chính phủ
+112025,ent_0437d2be7032e6f3,AP_DUNG_CHO,gemini,0.95,"c) Doanh nghiệp môi giới bảo hiểm, đại lý bảo hiểm;"
+112025,ent_090bf89f55f64c81,AP_DUNG_CHO,gemini,0.9,"d) Các tổ chức, cá nhân khác có liên quan."
+112025,ent_3c0d3dae7afa29e9,KY_BOI,metadata,0.99,Nguyễn Xuân Phúc
+112025,ent_798f27e3c0786d74,AP_DUNG_CHO,gemini,0.95,b) Chi nhánh nước ngoài;
+112025,ent_7c65ba914db36111,AP_DUNG_CHO,gemini,0.95,Nghị định này áp dụng đối với: a) Doanh nghiệp bảo hiểm;
+112924,95652,THAM_CHIEU,rule,0.95,Căn cứ Nghị định số 135/2015/NĐ-CP ngày 31 tháng 12 năm 2015 của Chính phủ quy định về đầu tư gián tiếp ra nước ngoài;
+112924,ent_06e3fa9da5e30415,KY_BOI,metadata,0.99,Trần Xuân Hà
+112924,ent_baaea301a2766d3a,AP_DUNG_CHO,gemini,0.95,"Thông tư này áp dụng đối với tổ chức kinh doanh chứng khoán, quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán, doanh nghiệp kinh doanh bảo hiểm và các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động đầu tư gián tiếp ra nước ngoài."
+112924,ent_f738d9f6982c7b6f,BAN_HANH_BOI,metadata,0.99,Bộ Tài chính
+117310,25692,THAM_CHIEU,rule,0.95,"NƯỚC VIỆT NAM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc Số: 41/2016/TT-NHNN Hà Nội, Ngày 30 tháng 12 năm 2016 THÔNG TƯ Quy định tỷ lệ an toàn vốn đối với ngân hàng, chi nhánh ngân hàng nước ngoài Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010;"
+117310,ent_67185c6a27ee2bf2,KY_BOI,metadata,0.99,Nguyễn Đồng Tiến
+117310,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+117310,ent_a0f80c00e2d551f4,AP_DUNG_CHO,gemini,0.95,"Đối tượng áp dụng gồm: a) Ngân hàng: Ngân hàng thương mại nhà nước, ngân hàng thương mại cổ phần, ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài; b) Chi nhánh ngân hàng nước ngoài."
+117310,ent_a7a0a5d367420fae,AP_DUNG_CHO,gemini,0.95,"Đối tượng áp dụng gồm: a) Ngân hàng: Ngân hàng thương mại nhà nước, ngân hàng thương mại cổ phần, ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài;"
+117310,ent_f9b6a1560b8cb974,THUOC_LINH_VUC,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+133858,ent_015434e5efab2d77,BAN_HANH_BOI,metadata,0.99,Chính phủ
+133858,ent_065f0aea2863ba2e,AP_DUNG_CHO,gemini,0.95,"a) Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;"
+133858,ent_3c0d3dae7afa29e9,KY_BOI,metadata,0.99,Nguyễn Xuân Phúc
+133858,ent_3ffb0b55f67aafbb,AP_DUNG_CHO,gemini,0.95,c) Các đơn vị sự nghiệp công lập;
+133858,ent_5e0c2094bd0898ac,AP_DUNG_CHO,gemini,0.95,"đ) Các tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán nội bộ."
+133858,ent_d7fcda4370f4315d,AP_DUNG_CHO,gemini,0.95,d) Các doanh nghiệp;
+133858,ent_fb0157b6ffe48c04,AP_DUNG_CHO,gemini,0.95,"b) Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương;"
+143217,133858,THAM_CHIEU,rule,0.95,Căn cứ Nghị định số 05/2019/NĐ-CP ngày 22 thảng 01 năm 2019 của Chính phủ về kiếm toán nội bộ;
+143217,ent_17370a142731f7d3,AP_DUNG_CHO,gemini,0.9,Thông tư này áp dụng đối với các doanh nghiệp quy định tại khoản 1 Điều 10 Nghị định số 05/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về kiếm toán nội bộ.
+143217,ent_b118f8488148ab18,AP_DUNG_CHO,gemini,0.85,Các doanh nghiệp không thuộc quy định tại khoản 1 Điều này được khuyến khích xây dựng Quy chế kiểm toán nội bộ trên cơ sở tham chiếu mẫu Quy chế kiểm toán nội bộ ban hành kèm theo Thông tư này.
+143217,ent_f738d9f6982c7b6f,BAN_HANH_BOI,metadata,0.99,Bộ Tài chính
+143217,ent_ffb6ed909ae04edb,KY_BOI,gemini,0.95,KT. BỘ TRƯỞNG THỨ TRƯỞNG (Đã ký) Đỗ Hoàng Anh Tuấn
+146468,ent_015434e5efab2d77,BAN_HANH_BOI,metadata,0.99,Chính phủ
+146468,ent_2e87ad75c32066d5,THUOC_LINH_VUC,metadata,0.99,Chứng khoán
+146468,ent_3c0d3dae7afa29e9,KY_BOI,metadata,0.99,Nguyễn Xuân Phúc
+146468,ent_f0c9b831b72a0444,AP_DUNG_CHO,gemini,0.95,"Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài (sau đây gọi chung là tổ chức, cá nhân) thực hiện hành vi vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán quy định tại Nghị định này."
+150974,133858,THAM_CHIEU,rule,0.95,Căn cứ Nghị định 05/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về kiểm toán nội bộ;
+150974,ent_5d6a62f10b7be468,KY_BOI,metadata,0.99,Tạ Anh Tuấn
+150974,ent_5ed579e72aa58417,AP_DUNG_CHO,gemini,0.9,Chuẩn mực được áp dụng cho người làm công tác kiểm toán nội bộ và bộ phận kiểm toán nội bộ.
+150974,ent_cb3942e64f2a0f5d,THUOC_LINH_VUC,metadata,0.99,"Kế toán, kiểm toán"
+150974,ent_d04fab0e5fd0fa8d,AP_DUNG_CHO,gemini,0.95,"Chuẩn mực kiểm toán nội bộ Việt Nam và các nguyên tắc đạo đức nghề nghiệp kiểm toán nội bộ áp dụng đối với các doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp công lập quy định tại Điều 8, Điều 9, Điều 10 Nghị định số 05/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về kiểm toán nội bộ và các tổ chức cá nhân có liên quan trong hoạt động kiểm toán nội bộ của các đơn vị này."
+150974,ent_f738d9f6982c7b6f,BAN_HANH_BOI,metadata,0.99,Bộ Tài chính
+163441,ent_015434e5efab2d77,BAN_HANH_BOI,metadata,0.99,Chính phủ
+163441,ent_639b9b5a892fc242,AP_DUNG_CHO,gemini,0.95,Cơ quan quản lý nhà nước về hoạt động kinh doanh bảo hiểm.
+163441,ent_84e5423ab8bd3c31,KY_BOI,metadata,0.99,Lê Minh Khái
+163441,ent_a48b5f7376a16481,AP_DUNG_CHO,gemini,0.95,Tổ chức và cá nhân có liên quan đến hoạt động kinh doanh bảo hiểm.
+163441,ent_d8da81143a9651e6,THUOC_LINH_VUC,gemini,0.95,Nghị định quy định chi tiết thi hành một số điều của Luật Kinh doanh bảo hiểm.
+163441,ent_e8d8481ba38b897b,THUOC_LINH_VUC,metadata,0.99,Bảo hiểm
+163441,ent_f3a1d194eb2987e5,AP_DUNG_CHO,gemini,0.95,"Bên mua bảo hiểm, người được bảo hiểm, người thụ hưởng"
+164719,117310,SUA_DOI_BO_SUNG,rule,0.96,"NGÂN HÀNG NHÀ NƯỚC VIỆT NAM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc Số: 22/2023/TT-NHNN Hà Nội, ngày 29 tháng 12 năm 2023 THÔNG TƯ Sửa đổi, bổ sung một số điều của Thông tư số 41/2016/TT-NHNN ngày 30 tháng 12 năm 2016 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định tỷ lệ an toàn vốn đối với ngân hàng, chi nhánh ngân hàng nước ngoài Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;"
+164719,ent_0db1fd25d8655c63,KY_BOI,metadata,0.99,Đoàn Thái Sơn
+164719,ent_30a2a4ce00c9e87f,AP_DUNG_CHO,gemini,0.95,"quy định tỷ lệ an toàn vốn đối với ngân hàng, chi nhánh ngân hàng nước ngoài"
+164719,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+164719,ent_ddd55f0b9f9c197e,AP_DUNG_CHO,gemini,0.95,"Điều 3. Trách nhiệm tổ chức thực hiện Chánh Văn phòng, Chánh Thanh tra, giám sát ngân hàng, Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước, ngân hàng, chi nhánh ngân hàng nước ngoài chịu trách nhiệm tổ chức thực hiện Thông tư này."
+164719,ent_f9b6a1560b8cb974,THUOC_LINH_VUC,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+166170,ent_1cdcaf71884e8a3b,BAN_HANH_BOI,metadata,0.99,Quốc hội
+166170,ent_2693e98696734277,AP_DUNG_CHO,gemini,0.9,"3. Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng (sau đây gọi là văn phòng đại diện nước ngoài)."
+166170,ent_7186f7074373cc96,KY_BOI,metadata,0.99,Vương Đình Huệ
+166170,ent_7a33c7cef796dfec,AP_DUNG_CHO,gemini,0.9,"4. Tổ chức mà Nhà nước sở hữu 100% vốn điều lệ có chức năng mua, bán, xử lý nợ (sau đây gọi là tổ chức mua bán, xử lý nợ)."
+166170,ent_a0f80c00e2d551f4,AP_DUNG_CHO,gemini,0.95,2. Chi nhánh ngân hàng nước ngoài.
+166170,ent_b7a2560072f910fe,AP_DUNG_CHO,gemini,0.9,"5. Cơ quan, tổ chức, cá nhân có liên quan đến việc thành lập, tổ chức, hoạt động, can thiệp sớm, kiểm soát đặc biệt, tổ chức lại, giải thể, phá sản tổ chức tín dụng"
+166170,ent_bfc023b25f04a8d1,THUOC_LINH_VUC,metadata,0.99,Tín dụng
+166170,ent_f7cce62e224d7722,AP_DUNG_CHO,gemini,0.95,Điều 2. Đối tượng áp dụng 1. Tổ chức tín dụng.
+166269,ent_1c16d2bc61a740f0,AP_DUNG_CHO,gemini,0.95,"Điều 2. Đối tượng áp dụng 1. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã."
+166269,ent_1cdcaf71884e8a3b,BAN_HANH_BOI,metadata,0.99,Quốc hội
+166269,ent_1eb567527fec445b,AP_DUNG_CHO,gemini,0.95,"3. Cơ quan, tổ chức, cá nhân có liên quan đến thành lập, tổ chức quản lý, tổ chức lại, giải thể, phá sản và hoạt động có liên quan của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã."
+166269,ent_7186f7074373cc96,KY_BOI,metadata,0.99,Vương Đình Huệ
+166269,ent_ff4b55c754f9fb89,AP_DUNG_CHO,gemini,0.95,"2. Thành viên của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã."
+168220,ent_0182773d036251b0,KY_BOI,metadata,0.99,Đào Minh Tú
+168220,ent_3b871533517390a8,AP_DUNG_CHO,gemini,0.98,Điều 2. Đối tượng áp dụng 1. Ngân hàng hợp tác xã.
+168220,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+168220,ent_b34fdf9ce0b61620,AP_DUNG_CHO,gemini,0.95,"3. Tổ chức, cá nhân có liên quan đến phạm vi điều chỉnh quy định tại Điều 1 Thông tư này."
+168220,ent_f416ce1b681c4d9b,AP_DUNG_CHO,gemini,0.98,Điều 2. Đối tượng áp dụng 1. Ngân hàng hợp tác xã. 2. Quỹ tín dụng nhân dân.
+168220,ent_f9b6a1560b8cb974,THUOC_LINH_VUC,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+168859,ent_0182773d036251b0,KY_BOI,metadata,0.99,Đào Minh Tú
+168859,ent_3b871533517390a8,AP_DUNG_CHO,gemini,0.95,2. Ngân hàng hợp tác xã.
+168859,ent_8e4eaa8d1f9d554a,AP_DUNG_CHO,gemini,0.95,"3. Tổ chức, cá nhân có liên quan đến quản trị, điều hành, tổ chức và hoạt động của quỹ tín dụng nhân dân."
+168859,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+168859,ent_9f4d9755f0695734,THUOC_LINH_VUC,gemini,0.8,trong lĩnh vực thành lập và hoạt động ngân hàng.
+168859,ent_f416ce1b681c4d9b,AP_DUNG_CHO,gemini,0.95,Điều 2. Đối tượng áp dụng 1. Quỹ tín dụng nhân dân.
+168859,ent_f9b6a1560b8cb974,THUOC_LINH_VUC,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+169221,44209,SUA_DOI_BO_SUNG,rule,0.96,"Sửa đổi, bổ sung điểm a và điểm c khoản 2 Điều 30 (đã được sửa đổi, bổ sung bởi khoản 13 Điều 1 Thông tư số 01/2020/TT-NHNN ngày 31/12/2020 của Thống đốc Ngân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số điều của Thông tư 01/2014/TT-NHNN ngày 10 tháng 12 năm 2014 của Thống đốc Ngân hàng nhà nước hướng dẫn việc tổ chức thực hiện hoạt động quản lý dự trữ ngoại hối nhà nước) như sau: a) Sửa đổi, bổ sung điểm a như sau: “a) Trình Thủ tướng Chính phủ phê duyệt: Hạn mức Quỹ Bình ổn tỷ giá và quản l"
+169221,ent_1054fe708f8090b2,AP_DUNG_CHO,gemini,0.95,"Chánh Văn phòng, Cục trưởng Cục Quản lý dự trữ ngoại hối nhà nước và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam chịu trách nhiệm tổ chức thực hiện Thông tư này."
+169221,ent_4db4a0f294e63d75,THUOC_LINH_VUC,gemini,0.9,hướng dẫn việc tổ chức thực hiện hoạt động quản lý dự trữ ngoại hối nhà nước
+169221,ent_6ff6479531415a80,AP_DUNG_CHO,gemini,0.95,"Chánh Văn phòng, Cục trưởng Cục Quản lý dự trữ ngoại hối nhà nước và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam chịu trách nhiệm tổ chức thực hiện Thông tư này."
+169221,ent_7098a42e5d76e456,THUOC_LINH_VUC,metadata,0.99,Quản lý ngoại hối
+169221,ent_7fabe44a4afcfca9,AP_DUNG_CHO,gemini,0.95,"Chánh Văn phòng, Cục trưởng Cục Quản lý dự trữ ngoại hối nhà nước và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam chịu trách nhiệm tổ chức thực hiện Thông tư này."
+169221,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+169221,ent_f089d0435d0a9be4,KY_BOI,metadata,0.99,Phạm Thanh Hà
+173460,ent_00602efd97d08612,AP_DUNG_CHO,gemini,1.0,Điều 2. Đối tượng áp dụng 1. Công ty tài chính tổng hợp.
+173460,ent_0db1fd25d8655c63,KY_BOI,metadata,0.99,Đoàn Thái Sơn
+173460,ent_0fa226c710ea200f,AP_DUNG_CHO,gemini,1.0,2. Công ty tài chính chuyên ngành.
+173460,ent_63c69278dc2b66e4,AP_DUNG_CHO,gemini,1.0,"3. Các tổ chức, cá nhân có liên quan đến việc cấp Giấy phép lần đầu của tổ chức tín dụng phi ngân hàng."
+173460,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+173460,ent_f9b6a1560b8cb974,THUOC_LINH_VUC,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+173695,ent_0db1fd25d8655c63,KY_BOI,metadata,0.99,Đoàn Thái Sơn
+173695,ent_2693e98696734277,AP_DUNG_CHO,gemini,0.95,"3. Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng (sau đây gọi là văn phòng đại diện nước ngoài)."
+173695,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+173695,ent_a0f80c00e2d551f4,AP_DUNG_CHO,gemini,0.95,2. Chi nhánh ngân hàng nước ngoài.
+173695,ent_a83e76d0d0f195cf,AP_DUNG_CHO,gemini,0.9,"4. Các tổ chức, cá nhân có liên quan đến hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài và văn phòng đại diện nước ngoài."
+173695,ent_c152cb9d99efaba7,AP_DUNG_CHO,gemini,0.95,Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với: 1. Ngân hàng thương mại.
+173695,ent_f9b6a1560b8cb974,THUOC_LINH_VUC,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+174218,ent_0db1fd25d8655c63,KY_BOI,metadata,0.99,Đoàn Thái Sơn
+174218,ent_26efcbfc8591e99b,AP_DUNG_CHO,gemini,0.95,b) Tổ chức tín dụng phi ngân hàng bao gồm công ty tài chính tổng hợp và công ty tài chính chuyên ngành.
+174218,ent_974f27d89692f196,AP_DUNG_CHO,gemini,0.95,"2. Tổ chức, cá nhân có liên quan đến việc tổ chức lại tổ chức tín dụng."
+174218,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+174218,ent_c152cb9d99efaba7,AP_DUNG_CHO,gemini,0.95,Điều 2. Đối tượng áp dụng 1. Các tổ chức tín dụng bao gồm: a) Ngân hàng thương mại;
+174218,ent_f9b6a1560b8cb974,THUOC_LINH_VUC,metadata,0.99,"Thanh tra, giám sát ngân hàng"
+177271,ent_0db1fd25d8655c63,KY_BOI,metadata,0.99,Đoàn Thái Sơn
+177271,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+177271,ent_bce97600cb09b0de,AP_DUNG_CHO,gemini,0.95,"2. Tổ chức, cá nhân có liên quan đến việc cấp Giấy phép lần đầu, cấp đổi Giấy phép của quỹ tín dụng nhân dân, cấp bản sao Giấy phép từ sổ gốc."
+177271,ent_dcf4b5e8d651c5d4,THUOC_LINH_VUC,metadata,0.99,Cục An toàn hệ thống các tổ chức tín dụng
+177271,ent_f416ce1b681c4d9b,AP_DUNG_CHO,gemini,0.95,Điều 2. Đối tượng áp dụng 1. Quỹ tín dụng nhân dân.
+185630,166170,THAM_CHIEU,rule,0.95,"Căn cứ Luật Các tổ chức tín dụng số 32/2024/QH15 được sửa đổi, bổ sung bởi Luật số 96/2025/QH15;"
+185630,166269,THAM_CHIEU,rule,0.95,Căn cứ Luật Hợp tác xã số 17/2023/QH15;
+185630,168859,SUA_DOI_BO_SUNG,rule,0.88,"Chương I SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 29/2024/TT-NHNN QUY ĐỊNH VỀ QUỸ TÍN DỤNG NHÂN DÂN Điều 1."
+185630,177271,SUA_DOI_BO_SUNG,rule,0.88,"Chương II SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 01/2025/TT-NHNN QUY ĐỊNH VỀ CẤP GIẤY PHÉP LẦN ĐẦU, CẤP ĐỔI GIẤY PHÉP CỦA QUỸ TÍN DỤNG NHÂN DÂN Điều 3."
+185630,ent_0db1fd25d8655c63,KY_BOI,metadata,0.99,Đoàn Thái Sơn
+185630,ent_3b871533517390a8,AP_DUNG_CHO,gemini,0.95,"Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, ngân hàng hợp tác xã, quỹ tín dụng nhân dân có trách nhiệm tổ chức thực hiện Thông tư này."
+185630,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+185630,ent_f416ce1b681c4d9b,AP_DUNG_CHO,gemini,0.95,"Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, ngân hàng hợp tác xã, quỹ tín dụng nhân dân có trách nhiệm tổ chức thực hiện Thông tư này."
+185630,ent_f8280a425299c2ce,THUOC_LINH_VUC,metadata,0.99,"Lao động, tiền lương, tiền công"
+185630,ent_fca07e924f4d8236,AP_DUNG_CHO,gemini,0.95,"Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, ngân hàng hợp tác xã, quỹ tín dụng nhân dân có trách nhiệm tổ chức thực hiện Thông tư này."
+186482,166170,THAM_CHIEU,rule,0.95,"Căn cứ Luật Các tổ chức tín dụng số 32/2024/QH15 được sửa đổi, bổ sung bởi Luật số 96/2025/QH15;"
+186482,174218,SUA_DOI_BO_SUNG,rule,0.88,"Chương IV SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 62/2024/TT-NHNN CỦA THỐNG ĐỐC NGÂN HÀNG NHÀ NƯỚC VIỆT NAM QUY ĐỊNH VỀ ĐIỀU KIỆN, HỒ SƠ, THỦ TỤC CHẤP THUẬN VIỆC TỔ CHỨC LẠI NGÂN HÀNG THƯƠNG MẠI, TỔ CHỨC TÍN DỤNG PHI NGÂN HÀNG Điều 26."
+186482,25692,THAM_CHIEU,rule,0.95,"NG TƯ Sửa đổi, bổ sung một số điều của một số Thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh, đơn giản hóa thủ tục hành chính Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12;"
+186482,ent_0db1fd25d8655c63,KY_BOI,metadata,0.99,Đoàn Thái Sơn
+186482,ent_587ab6a986a6d453,AP_DUNG_CHO,gemini,0.95,"Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam chịu trách nhiệm thực hiện Thông tư này./."
+186482,ent_5e27352f38bb7b0a,THUOC_LINH_VUC,gemini,0.95,"trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh, đơn giản hóa thủ tục hành chính"
+186482,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+186482,ent_dcf4b5e8d651c5d4,THUOC_LINH_VUC,metadata,0.99,Cục An toàn hệ thống các tổ chức tín dụng
+186888,166170,THAM_CHIEU,rule,0.95,"Căn cứ Luật Các tổ chức tín dụng số 32/2024/QH15 được sửa đổi, bổ sung bởi Luật số 96/2025/QH15;"
+186888,25692,THAM_CHIEU,rule,0.95,"HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ________________________ Hà Nội, ngày 31 tháng 12 năm 2025 THÔNG TƯ Quy định về hệ thống kiểm soát nội bộ của tổ chức tín dụng là hợp tác xã, tổ chức tài chính vi mô Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12;"
+186888,ent_0db1fd25d8655c63,KY_BOI,metadata,0.99,Đoàn Thái Sơn
+186888,ent_44f04fad774690af,AP_DUNG_CHO,gemini,0.95,"1. Tổ chức tín dụng là hợp tác xã bao gồm ngân hàng hợp tác xã, quỹ tín dụng nhân dân."
+186888,ent_7d26675c1d3289f2,AP_DUNG_CHO,gemini,0.95,2. Tổ chức tài chính vi mô.
+186888,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+186888,ent_c71a3da0ec279c77,AP_DUNG_CHO,gemini,0.95,"3. Tổ chức, cá nhân có liên quan đến hệ thống kiểm soát nội bộ của tổ chức tín dụng."
+186888,ent_dcf4b5e8d651c5d4,THUOC_LINH_VUC,metadata,0.99,Cục An toàn hệ thống các tổ chức tín dụng
+25692,ent_1cdcaf71884e8a3b,BAN_HANH_BOI,metadata,0.99,Quốc hội
+25692,ent_5cdeaf72cfc2527d,KY_BOI,metadata,0.99,Nguyễn Phú Trọng
+25692,ent_8f237a638ffb9b46,THUOC_LINH_VUC,gemini,0.9,nhân danh Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam về lĩnh vực tiền tệ và ngân hàng.
+25692,ent_f3dacdd0e784d408,AP_DUNG_CHO,gemini,0.95,Luật này quy định về tổ chức và hoạt động của Ngân hàng Nhà nước Việt Nam.
+26750,ent_1cdcaf71884e8a3b,BAN_HANH_BOI,metadata,0.99,Quốc hội
+26750,ent_56f09eacc51aec68,AP_DUNG_CHO,gemini,0.95,"Điều 2. Đối tượng áp dụng Luật này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập."
+26750,ent_5cdeaf72cfc2527d,KY_BOI,metadata,0.99,Nguyễn Phú Trọng
+27257,25692,THAM_CHIEU,rule,0.95,"c lập - Tự do - Hạnh phúc --------------- Số: 44/2011/TT-NHNN Hà Nội, ngày 29 tháng 12 năm 2011 THÔNG TƯ Q uy định về hệ thống kiểm soát nội bộ và kiểm toán nội bộ của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010;"
+27257,ent_6956103aef150326,AP_DUNG_CHO,gemini,0.95,"3. Tổ chức, cá nhân có liên quan đến hệ thống kiểm soát nội bộ và kiểm toán nội bộ của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài."
+27257,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+27257,ent_a0f80c00e2d551f4,AP_DUNG_CHO,gemini,1.0,2. Chi nhánh ngân hàng nước ngoài;
+27257,ent_b918609505bd5491,KY_BOI,metadata,0.99,Trần Minh Tuấn
+27257,ent_f7cce62e224d7722,AP_DUNG_CHO,gemini,1.0,Điều 2. Đối tượng áp dụng 1. Tổ chức tín dụng;
+30402,26750,THAM_CHIEU,rule,0.95,"A XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc Số: 202/2012/TT-BTC Hà Nội, ngày 19 tháng 11 năm 2012 THÔNG TƯ Hướng dẫn về đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán ___________________ Căn cứ Luật Kiểm toán độc lập số 67/2011/QH12 ngày 29 tháng 3 năm 2011;"
+30402,ent_06e3fa9da5e30415,KY_BOI,metadata,0.99,Trần Xuân Hà
+30402,ent_1fc6baf6a2b56ee9,THUOC_LINH_VUC,metadata,0.99,Quản lý dịch vụ tài chính và các quỹ tài chính
+30402,ent_660d1dbb96a72415,AP_DUNG_CHO,gemini,0.9,"Vụ trưởng Vụ Chế độ kế toán và kiểm toán, doanh nghiệp kiểm toán, kiểm toán viên hành nghề và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này."
+30402,ent_86e864802c407649,AP_DUNG_CHO,gemini,0.95,"1. Kiểm toán viên đăng ký hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam."
+30402,ent_8f8116b6ed0547c2,AP_DUNG_CHO,gemini,0.95,"3. Tổ chức, cá nhân có liên quan đến việc đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán."
+30402,ent_c46f3a7601ec0842,AP_DUNG_CHO,gemini,0.95,"2. Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam (sau đây gọi chung là doanh nghiệp kiểm toán)."
+30402,ent_f738d9f6982c7b6f,BAN_HANH_BOI,metadata,0.99,Bộ Tài chính
+38128,25692,THAM_CHIEU,rule,0.95,"HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc Số: 37/2014/TT-NHNN Hà Nội, Ngày 26 tháng 11 năm 2014 THÔNG TƯ Q uy định việc thiết kế mẫu tiền, chế bản và quản lý in, đúc tiền Việt Nam ____________________ Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ;"
+38128,ent_0182773d036251b0,KY_BOI,metadata,0.99,Đào Minh Tú
+38128,ent_120a7b68d74b2952,AP_DUNG_CHO,gemini,1.0,Điều 2. Đối tượng áp dụng 1. Các đơn vị có liên quan thuộc Ngân hàng Nhà nước.
+38128,ent_855faa01926b9bcd,AP_DUNG_CHO,gemini,1.0,"3. Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền."
+38128,ent_97c9991b830b89c2,THUOC_LINH_VUC,metadata,0.99,Phát hành và kho quỹ
+38128,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+38128,ent_e84455545ea106c2,AP_DUNG_CHO,gemini,1.0,2. Nhà máy in tiền Quốc gia.
+44209,25692,THAM_CHIEU,rule,0.95,"A XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 01/2014/TT-NHNN Hà Nội, ngày 06 tháng 01 năm 2014 THÔNG TƯ Quy định về giao nhận, bảo quản, vận chuyển tiền mặt, tài sản quý, giấy tờ có giá Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010;"
+44209,ent_0182773d036251b0,KY_BOI,metadata,0.99,Đào Minh Tú
+44209,ent_1d7e563dc0d0a3e9,AP_DUNG_CHO,gemini,0.95,"Điều 2. Đối tượng áp dụng 1. Ngân hàng Nhà nước Việt Nam (sau đây gọi tắt là Ngân hàng Nhà nước). 2. Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài."
+44209,ent_5a17d2b80fa01295,AP_DUNG_CHO,gemini,0.95,"3. Khách hàng trong quan hệ giao dịch tiền mặt, tài sản quý, giấy tờ có giá với Ngân hàng Nhà nước, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài."
+44209,ent_97c9991b830b89c2,THUOC_LINH_VUC,metadata,0.99,Phát hành và kho quỹ
+44209,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+44209,ent_f3dacdd0e784d408,AP_DUNG_CHO,gemini,0.95,Điều 2. Đối tượng áp dụng 1. Ngân hàng Nhà nước Việt Nam (sau đây gọi tắt là Ngân hàng Nhà nước).
+6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,173695,THAM_CHIEU,rule,0.78,"GHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc THÔNG TƯ Quy định hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài Thông tư số 56/2024/TT-NHNN ngày 24 tháng 12 năm 2024 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài, có hiệu lực kể từ ngày 24 tháng 12 năm 2024 được sửa đổi"
+6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,ent_0db1fd25d8655c63,KY_BOI,metadata,0.99,Đoàn Thái Sơn
+6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,ent_2693e98696734277,AP_DUNG_CHO,gemini,0.95,"3. Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng (sau đây gọi là văn phòng đại diện nước ngoài)."
+6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,ent_98c0694606f989b8,BAN_HANH_BOI,metadata,0.99,Ngân hàng Nhà nước Việt Nam
+6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,ent_a0f80c00e2d551f4,AP_DUNG_CHO,gemini,0.95,2. Chi nhánh ngân hàng nước ngoài.
+6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,ent_a83e76d0d0f195cf,AP_DUNG_CHO,gemini,0.9,"4. Các tổ chức, cá nhân có liên quan đến hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài và văn phòng đại diện nước ngoài."
+6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,ent_c152cb9d99efaba7,AP_DUNG_CHO,gemini,0.95,Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với: 1. Ngân hàng thương mại.
+95652,ent_015434e5efab2d77,BAN_HANH_BOI,metadata,0.99,Chính phủ
+95652,ent_0bccde94640edc6d,AP_DUNG_CHO,gemini,0.95,"3. Các tổ chức, cá nhân khác có liên quan đến hoạt động đầu tư gián tiếp ra nước ngoài."
+95652,ent_3ce2ac8e65738e6a,AP_DUNG_CHO,gemini,0.95,2. Các cơ quan quản lý nhà nước tham gia quản lý hoạt động đầu tư gián tiếp ra nước ngoài theo quy định tại Nghị định này.
+95652,ent_5e3f5c45fbc6052b,AP_DUNG_CHO,gemini,0.95,1. Nhà đầu tư gồm các đối tượng sau: a) Tổ chức kinh tế theo quy định tại Khoản 16 Điều 3 Luật Đầu tư; b) Cá nhân có quốc tịch Việt Nam thuộc đối tượng được tham gia chương trình thưởng cổ phiếu phát hành ở nước ngoài.
+95652,ent_62df3c48cfcb3e2f,KY_BOI,metadata,0.99,Nguyễn Tấn Dũng
+f69936f0-6937-11f1-a48d-29bc6b0fd706,ent_015434e5efab2d77,BAN_HANH_BOI,gemini,0.95,Chính phủ ban hành Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán
+f69936f0-6937-11f1-a48d-29bc6b0fd706,ent_2e87ad75c32066d5,THUOC_LINH_VUC,gemini,0.9,Quy định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán
+f69936f0-6937-11f1-a48d-29bc6b0fd706,ent_8a6d9d75835cdd38,KY_BOI,metadata,0.99,Nguyễn Đức Chi
+f69936f0-6937-11f1-a48d-29bc6b0fd706,ent_f0c9b831b72a0444,AP_DUNG_CHO,gemini,0.9,"Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài (sau đây gọi chung là Tổ chức, cá nhân) thực hiện hành vi vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán quy định tại Nghị định này."
+f69936f0-6937-11f1-a48d-29bc6b0fd706,ent_f738d9f6982c7b6f,BAN_HANH_BOI,metadata,0.99,Bộ Tài chính
