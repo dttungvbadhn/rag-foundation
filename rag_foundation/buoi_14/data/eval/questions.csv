@@ -1,0 +1,4 @@
+question_id,question,expected_chunk_id,query_type,note
+q1,Điều 1 Thông tư 01/2014/TT-NHNN quy định phạm vi điều chỉnh thế nào?,9fd778b0-2d53-11f1-a3c8-2f5ac0f7b002,EXACT_KEYWORD,Verified directly in normalized corpus
+q2,Tổ chức tín dụng phải làm gì để bảo đảm an toàn tiền và tài sản?,44209-a71-2,SEMANTIC,Verified directly in normalized corpus
+q3,Điều 72 quy định hiệu lực thi hành thế nào?,a00abdb0-2d53-11f1-9dd8-ddb28ac01b54,MIXED,Verified directly in normalized corpus

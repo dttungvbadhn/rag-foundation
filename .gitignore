@@ -7,6 +7,8 @@
 **/*.pyc
 **/.pytest_cache/
 **/*.log
+**/cache/
+**/index/
 
 # Local persistent/vector storage
 **/storage/chroma/
@@ -17,6 +19,8 @@
 
 # Streamlit local configuration
 **/.streamlit/
+!rag_foundation/buoi_14/.streamlit/
+!rag_foundation/buoi_14/.streamlit/config.toml
 
 # Editor and operating-system files
 .vscode/
