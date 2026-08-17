@@ -1,0 +1,4 @@
+streamlit>=1.36,<2
+neo4j>=5.20,<7
+python-dotenv>=1.0,<2
+sentence-transformers>=3,<6

@@ -1,0 +1,4 @@
+{
+  "roles": ["Admin", "HR", "Risk_Manager", "Staff", "Guest"],
+  "default_role": "Guest"
+}

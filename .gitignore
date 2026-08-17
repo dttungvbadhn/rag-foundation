@@ -21,6 +21,8 @@
 **/.streamlit/
 !rag_foundation/buoi_14/.streamlit/
 !rag_foundation/buoi_14/.streamlit/config.toml
+!rag_foundation/buoi_15/.streamlit/
+!rag_foundation/buoi_15/.streamlit/config.toml
 
 # Editor and operating-system files
 .vscode/
