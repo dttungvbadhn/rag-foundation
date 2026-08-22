@@ -1,0 +1,7 @@
+{
+  "source_of_truth": "allowed_roles in ../buoi_15/data/processed/chunks_secure.csv",
+  "policy_type": "training simulation",
+  "unknown_role": "DENY",
+  "note": "This file documents behavior only; it does not invent or override source policy."
+}
+
